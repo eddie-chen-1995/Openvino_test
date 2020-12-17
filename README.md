@@ -29,4 +29,4 @@ Change the model path for your model path.
     $python test_20201210_for_intel.py
 ```
 
-※If wanna chage the camera can use ```-i``` , default is cam0.
+※If wanna chage the camera can use ```-i``` + ```your cam number``` , default is 0.
